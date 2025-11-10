@@ -1,0 +1,10 @@
+accelerate
+bitsandbytes
+deepspeed
+flask
+Levenshtein
+peft
+requests
+torch
+tqdm
+transformers
